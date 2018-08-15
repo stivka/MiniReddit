@@ -1,0 +1,64 @@
+body {
+    background: lightgreen;
+    background-position: top right;
+    background-repeat: no-repeat;
+}
+/*Header*/
+.loginHeader {
+    left: 0;
+    top: 0;
+    width: 100%;
+    position: fixed;
+    height: 40px;
+    border-bottom: 2px solid darkslategrey;
+    background-color: green;
+}
+
+.loginHeaderForm {
+    padding: 10px;
+}
+
+.container {
+    margin: 42px auto 0 auto;
+    width: 600px;
+}
+
+.news {
+    padding: 10px;
+    background-color: indianred;
+    border-bottom: 2px solid darkred;
+    border-top: 2px solid darkred;
+}
+
+.poster {
+    padding: 10px;
+    background-color: darkseagreen;
+}
+
+#newsFormText {
+    width: 450px;
+}
+
+.btn {
+    margin-left: 20px;
+    background-color: grey;
+    color: white;
+    border: 1px solid grey;
+}
+
+.btn:hover {
+    background-color: white;
+    color: grey;
+    border: 1px solid grey;
+}
+
+.newsFooter {
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+.newsText {
+    font-size: 20px;
+}
+
+
